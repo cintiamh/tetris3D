@@ -1,0 +1,19 @@
+{
+  "name": "tetris3D",
+  "version": "0.0.1",
+  "description": "Tetris game in 3D using three.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cintiamh/tetris3D.git"
+  },
+  "author": "Cintia Higashi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cintiamh/tetris3D/issues"
+  },
+  "homepage": "https://github.com/cintiamh/tetris3D"
+}
