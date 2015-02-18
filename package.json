@@ -15,5 +15,18 @@
   "bugs": {
     "url": "https://github.com/cintiamh/tetris3D/issues"
   },
-  "homepage": "https://github.com/cintiamh/tetris3D"
+  "homepage": "https://github.com/cintiamh/tetris3D",
+  "devDependencies": {
+    "chai": "^2.0.0",
+    "karma": "^0.12.31",
+    "karma-chai": "^0.1.0",
+    "karma-chrome-launcher": "^0.1.7",
+    "karma-firefox-launcher": "^0.1.4",
+    "karma-mocha": "^0.1.10",
+    "karma-phantomjs-launcher": "^0.1.4",
+    "karma-safari-launcher": "^0.1.1",
+    "karma-sinon": "^1.0.4",
+    "mocha": "^2.1.0",
+    "sinon": "^1.12.2"
+  }
 }
